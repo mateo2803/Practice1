@@ -1,5 +1,6 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 /* My File Edition */
 =======
 /***** My new Master File Edition *********/
@@ -7,3 +8,6 @@
 =======
 /* My Other Edition */
 >>>>>>> 84ad688 (Sixth commit. Created a new branch and edited 2.js)
+=======
+/* My Other Edition */
+>>>>>>> refs/remotes/origin/branchTwo
