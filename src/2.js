@@ -1,5 +1,1 @@
-<<<<<<< HEAD
-
-=======
-/* My File Edition */
->>>>>>> branchOne
+/* My Other Edition */
